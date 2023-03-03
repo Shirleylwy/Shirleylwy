@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirleylwy&label=Profile%20views&color=0e75b6&style=flat" alt="shirleylwy" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Data analysis**
 
 - 💬 Ask me about **R, SQL, PowerBI**
 
