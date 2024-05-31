@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirleylwy&label=Profile%20views&color=0e75b6&style=flat" alt="shirleylwy" /> </p>
 
-- 🌱 I’m currently learning **Data analysis**
+- 🌱 Aspired **Data analyst** in the data world
 
-- 💬 Ask me about **R, SQL, PowerBI**
+- 💬 Ask me about **R, , Python, SQL, PowerBI**
 
 - 📫 How to reach me **shirleylowweiyee@gmail.com**
 
