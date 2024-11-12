@@ -7,7 +7,7 @@
 
 - 🌱 Aspired **Data analyst** in the data world
 
-- 💬 Ask me about **R, , Python, SQL, PowerBI**
+- 💬 Ask me about **Data Modelling, Mining, ML with Python, SQL, PowerBI**
 
 - 📫 How to reach me **shirleylowweiyee@gmail.com**
 
