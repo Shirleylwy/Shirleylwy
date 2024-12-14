@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirleylwy&label=Profile%20views&color=0e75b6&style=flat" alt="shirleylwy" /> </p>
 
-- 🌱 Aspired **Data analyst** in the data world
+- 🌱 Aspired **Data analyst** in the data and AI world
 
 - 💬 Ask me about **Data Modelling, Mining, ML with Python, SQL, PowerBI**
 
